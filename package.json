@@ -1,6 +1,6 @@
 {
   "name": "fabric-sdk-node-mongodb-kvs",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "MongoDB KeyValueStore implementation for Fabric Node.js SDK",
   "main": "index.js",
   "scripts": {
